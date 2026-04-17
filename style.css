@@ -333,3 +333,18 @@ main {
   height: 20px;
   fill: white;
 }
+
+.socials--hero {
+  margin-top: 20px;
+  gap: 16px;
+}
+
+.socials--hero a {
+  width: 42px;
+  height: 42px;
+  opacity: 0.85;
+}
+
+.socials--hero a:hover {
+  opacity: 1;
+}
