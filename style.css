@@ -423,9 +423,10 @@ main {
 
 .artist-item strong {
   display: block;
-  color: #ffffff;
+  color: #ff7a00;
   margin-bottom: 0.35rem;
   font-size: 0.98rem;
+  font-weight: 700;
 }
 
 .artist-item a {
